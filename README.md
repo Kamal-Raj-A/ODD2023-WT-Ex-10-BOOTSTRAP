@@ -18,7 +18,7 @@
  
 # CODE: 10(a)
 # '''
-# DEVELOPED BY:ABDULLAH R
+# DEVELOPED BY: KAMAL RAJ A
 # '''
 ``````
 <!DOCTYPE html>
@@ -81,7 +81,7 @@ Link the Bootstrap JavaScript file at the end of the body.
 
 # CODE: 10(b)
 '''
-# DEVELOPED BY: ABDULLAH.R
+# DEVELOPED BY: KAMAL RAJ A
 '''
 ``````
 <!DOCTYPE html>
@@ -144,7 +144,7 @@ Add a script to handle the form validation on submit.
 
 # CODE: 10(c)
 '''
-# DEVELOPED BY:ABDULLAH R
+# DEVELOPED BY: KAMAL RAJ A
 '''
 ``````
 <!DOCTYPE html>
@@ -218,7 +218,7 @@ Add a script to handle the form validation on submit.
 
 # CODE: 10(d)
 '''
-# DEVELOPED BY:ABDULLAH R
+# DEVELOPED BY:KAMAL RAJ A
 '''
 ``````
 <!DOCTYPE html>
@@ -264,7 +264,7 @@ Add a script to handle the form validation on submit.
 
 
 # OUTPUT:10(d):
-d
+
 
 # RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
