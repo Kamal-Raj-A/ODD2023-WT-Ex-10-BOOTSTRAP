@@ -51,7 +51,7 @@
 ```
 
 # OUTPUT:10(a):
-![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/55157d54-724f-4bff-a2ab-7f0a3a54e440)
+![Alt text](<Screenshot 2023-12-31 153809.png>)
 
 
 # RESULT:
@@ -110,7 +110,7 @@ Link the Bootstrap JavaScript file at the end of the body.
 </html>
 ```
 # OUTPUT:10(b):
-![Screenshot 2023-12-31 111507](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/651e27ec-7d3c-4f52-b71a-d0c9bcfdedda)
+![Alt text](<Screenshot 2023-12-31 153927.png>)
 
 # RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -136,7 +136,7 @@ Add a submit button for the form.
 Add a script to handle the form validation on submit.
 
 # CODE: 10(c)
-'''
+
 # DEVELOPED BY: KAMAL RAJ A
 ```
 <!DOCTYPE html>
@@ -180,7 +180,7 @@ Add a script to handle the form validation on submit.
 </html>
 ```
 # OUTPUT:10(c):
-![Screenshot 2023-12-31 111752](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/713eff89-4fb6-4f04-a467-febc1d0f9a43)
+![Alt text](<Screenshot 2023-12-31 154255.png>)
 
 # RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -251,7 +251,7 @@ Add a script to handle the form validation on submit.
 ```
 
 # OUTPUT:10(d):
-![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/25ce9f09-dbe1-4ddf-b9e4-bacf905cd45d)
+![Alt text](<Screenshot 2023-12-31 154400.png>)
 
 # RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
