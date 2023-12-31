@@ -1,4 +1,4 @@
-# # Ex-10-BOOTSTRAP
+# Ex-10-BOOTSTRAP
 # Ex-10(a)
 # AIM
  Create a Responsive feedback form for a virtual workshop on Constructing Modern Websites built with Bootstrap.
@@ -78,7 +78,6 @@ Add a submit button for the form.
 Link the Bootstrap JavaScript file at the end of the body.
 
 # CODE: 10(b)
-'''
 # DEVELOPED BY: KAMAL RAJ A
 ```
 <html>
