@@ -19,10 +19,9 @@
 # CODE: 10(a)
 # '''
 # DEVELOPED BY: KAMAL RAJ A
-# '''
-``````
+```
 <!DOCTYPE html>
- <html>
+<html>
 <head>
     <title>Feedback Form</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,10 +49,10 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>
-``````
+```
 
 # OUTPUT:10(a):
-![Alt text](<Screenshot 2023-12-29 203050.png>)
+![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/55157d54-724f-4bff-a2ab-7f0a3a54e440)
 
 
 # RESULT:
