@@ -17,7 +17,6 @@
  Add a submit button and Link Bootstrap JavaScript.
  
 # CODE: 10(a)
-# '''
 # DEVELOPED BY: KAMAL RAJ A
 ```
 <!DOCTYPE html>
@@ -81,9 +80,7 @@ Link the Bootstrap JavaScript file at the end of the body.
 # CODE: 10(b)
 '''
 # DEVELOPED BY: KAMAL RAJ A
-'''
-``````
-<!DOCTYPE html>
+```
 <html>
 <head>
     <title>Student Registration Form</title>
@@ -112,11 +109,9 @@ Link the Bootstrap JavaScript file at the end of the body.
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>
-``````
-
+```
 # OUTPUT:10(b):
-![Alt text](<Screenshot 2023-12-29 203253.png>)
-
+![Screenshot 2023-12-31 111507](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/651e27ec-7d3c-4f52-b71a-d0c9bcfdedda)
 
 # RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -126,7 +121,7 @@ This code creates a Responsive student registration form for ABC Engineering Col
 Develop a program to structure vertical form layouts which handle form validation in bootstrap.
 
 # DESIGN STEPS: 10(c)
-Step 1:
+# Step 1:
 Initialize the HTML document with the necessary Bootstrap links.
 
 # Step 2:
@@ -144,8 +139,7 @@ Add a script to handle the form validation on submit.
 # CODE: 10(c)
 '''
 # DEVELOPED BY: KAMAL RAJ A
-'''
-``````
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -185,12 +179,9 @@ Add a script to handle the form validation on submit.
     </script>
 </body>
 </html>
-``````
-
-
+```
 # OUTPUT:10(c):
-![Alt text](<Screenshot 2023-12-29 203433.png>)
-
+![Screenshot 2023-12-31 111752](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/713eff89-4fb6-4f04-a467-febc1d0f9a43)
 
 # RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -216,10 +207,8 @@ Add a submit button for the form.
 Add a script to handle the form validation on submit.
 
 # CODE: 10(d)
-'''
 # DEVELOPED BY:KAMAL RAJ A
-'''
-``````
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -259,11 +248,11 @@ Add a script to handle the form validation on submit.
     </script>
 </body>
 </html>
-``````
 
+```
 
 # OUTPUT:10(d):
-
+![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742556/25ce9f09-dbe1-4ddf-b9e4-bacf905cd45d)
 
 # RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
